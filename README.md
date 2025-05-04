@@ -12,5 +12,18 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...  
 -->
+
+
+### Hi there 👋
+
+Hello, Namaste, I'm [Bibek Ranjit](https://www.linkedin.com/in/bibekranjit/) a Software Engineer based in Toronto, Canada. I am pursuing a post-graduate certificate in Artificial Intelligence and Data Science at Loyalist College.  
+
+- 💬 Ask me about Python, PHP, Java, SQL (MySQL, PostgreSQL), JavaScript/TypeScript, or simply anything.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bibekranjit/)
+- ⚡ Fun fact: Introverted by nature, but can ambivert in no time.
+  
+🔻 **Stats & Flexes** 🔻  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bibekranjit&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibekranjit&layout=compact&theme=radical) 
